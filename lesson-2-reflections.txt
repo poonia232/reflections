@@ -12,3 +12,35 @@ The staging area is the place in between working
 directory and repository.it offers the ease of 
 commit similar files in one go and leaving logically
 different files for another commit
+
+How can you use the staging area to make sure you have
+one commit per logical change?
+well i can add all the files which i have to commit 
+together in stage area and then commit which leaves behind
+logically different files open for another commit
+
+What are some situations when branches would be helpful 
+in keeping your history organized? How would branches 
+help?
+if i am adding new features to the game which i am not so 
+sure about i can use branches so as to avoid making a 
+mess
+
+How do the diagrams help you visualize the branch 
+structure?
+well they basically helps you imagine this as a literal 
+branch which paints a easy to understand picutre in your
+head.
+
+What is the result of merging two branches together? Why 
+do we represent it in the diagram the way we do?
+well you can incorporate the code which was running on a 
+different branch without having to manually post it there
+well becuase it is easy to understand
+
+What are the pros and cons of Git’s automatic merging vs. 
+always doing merges manually?
+well it kind of sucks...automatic is good if not working
+then i will do it manually
+
+ 

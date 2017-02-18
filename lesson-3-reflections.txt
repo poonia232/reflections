@@ -3,3 +3,19 @@ than keeping all your work local?
 well mulitple reasons, firslty someone else might
 be working on the same project so it is good
 for sharing secondly you might change your computer
+
+Why might you want to always pull changes manually rather 
+than having Git automatically stay up-to-date with your 
+remote repository?
+because you might be working on something and you
+don't want the changes someone else made to project
+downloaded to your code becuase that will just mess 
+it up
+
+Describe the differences between forks, clones, and 
+branches. When would you use one instead of another?
+branches are used when you want to try a feature which
+is either in experimental stage and is not yet ready for
+main branch. fork is done when you want to make a copy of 
+someone's repository on github and clone is when you want
+a local copy of a github repo
